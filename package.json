@@ -1,0 +1,34 @@
+{
+  "name": "react-rbac",
+  "version": "1.0.0",
+  "description": "A lightweight and flexible React component for role-based access control (RBAC). Easily manage user permissions and restrict access to components based on roles.",
+  "main": "dist/RBAC/index.js",
+  "types": "dist/RBAC/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "role based access control",
+    "rbac",
+    "frontend-rbac",
+    "authorizations",
+    "react-rbac",
+    "RBAC",
+    "ROLE BASED ACCESS CONTROL"
+  ],
+  "author": "Rushabh Dave | rushabh.dave.dev@gmail.com | https://github.com/Dave-Rushabh",
+  "license": "ISC",
+  "type": "module",
+  "peerDependencies": {
+    "react": "^19.0.0",
+    "react-router-dom": "^7.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.10",
+    "@types/react-router-dom": "^5.3.3",
+    "typescript": "^5.8.2"
+  }
+}
