@@ -1,6 +1,6 @@
 {
   "name": "react-rbac",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "A lightweight and flexible React component for role-based access control (RBAC). Easily manage user permissions and restrict access to components based on roles.",
   "main": "dist/RBAC/index.js",
   "types": "dist/RBAC/index.d.ts",
