@@ -22,6 +22,10 @@
   "author": "Rushabh Dave | rushabh.dave.dev@gmail.com | https://github.com/Dave-Rushabh",
   "license": "ISC",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dave-Rushabh/react-rbac-simplified.git"
+  },
   "peerDependencies": {
     "react": "^19.0.0",
     "react-router-dom": "^7.2.0"
